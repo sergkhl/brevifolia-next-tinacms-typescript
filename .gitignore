@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+package-lock.json
+
+# next.js build output
+.next
+
+# production server output
+dist
