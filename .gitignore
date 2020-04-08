@@ -1,6 +1,5 @@
-# Dependency directories
+# Dependencies
 node_modules/
-
 package-lock.json
 
 # next.js build output
@@ -8,3 +7,6 @@ package-lock.json
 
 # production server output
 dist
+
+# OSX
+DS_Store
